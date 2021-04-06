@@ -1,0 +1,26 @@
+.portfolio{
+    text-align: center;
+}
+.name{
+    color:chocolate;
+}
+h2,h3{
+    color:cadetblue;
+}
+.list-item{
+    text-align: center;
+    list-style: none;
+    color: seagreen;
+}
+h1{
+    text-align: center;
+    color:goldenrod;
+}
+p{
+    font-size: small;
+    color: seagreen;
+}
+.picture{
+    text-align: center;
+    padding: 7%;
+}
